@@ -1,2 +1,2 @@
 # ARM-Projects
- The Blue Pill interface examples and projects
+ This repository serves as a resource for various embedded systems projects and interface examples designed specifically for the Blue Pill development board, which is based on the ARM Cortex-M3 microcontroller.
